@@ -903,3 +903,7 @@ textarea.input-field {
    */
 
   .about .wrapper { gap: 100px; }
+
+  .about .grid-list { gap: 60px; }
+
+}
